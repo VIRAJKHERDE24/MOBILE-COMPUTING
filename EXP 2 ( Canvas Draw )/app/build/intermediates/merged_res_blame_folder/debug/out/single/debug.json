@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "/Users/ishank/.gradle/daemon/7.5/io.ak1.drawboxsample.app-merged_res-57:/drawable_ic_size.xml.flat",
+        "source": "/Users/ishank/.gradle/daemon/7.5/io.ak1.drawboxsample.app-main-59:/drawable/ic_size.xml"
+    },
+    {
+        "merged": "/Users/ishank/.gradle/daemon/7.5/io.ak1.drawboxsample.app-merged_res-57:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/ishank/.gradle/daemon/7.5/io.ak1.drawboxsample.app-main-59:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/ishank/.gradle/daemon/7.5/io.ak1.drawboxsample.app-merged_res-57:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/ishank/.gradle/daemon/7.5/io.ak1.drawboxsample.app-main-59:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/ishank/.gradle/daemon/7.5/io.ak1.drawboxsample.app-merged_res-57:/drawable_ic_color.xml.flat",
+        "source": "/Users/ishank/.gradle/daemon/7.5/io.ak1.drawboxsample.app-main-59:/drawable/ic_color.xml"
+    },
+    {
+        "merged": "io.ak1.drawboxsample.app-merged_res-57:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "io.ak1.drawboxsample.app-main-59:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "io.ak1.drawboxsample.app-merged_res-57:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "io.ak1.drawboxsample.app-main-59:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "io.ak1.drawboxsample.app-merged_res-57:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "io.ak1.drawboxsample.app-main-59:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "io.ak1.drawboxsample.app-merged_res-57:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "io.ak1.drawboxsample.app-main-59:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/ishank/.gradle/daemon/7.5/io.ak1.drawboxsample.app-merged_res-57:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/ishank/.gradle/daemon/7.5/io.ak1.drawboxsample.app-main-59:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/ishank/.gradle/daemon/7.5/io.ak1.drawboxsample.app-merged_res-57:/drawable_ic_refresh.xml.flat",
+        "source": "/Users/ishank/.gradle/daemon/7.5/io.ak1.drawboxsample.app-main-59:/drawable/ic_refresh.xml"
+    },
+    {
+        "merged": "io.ak1.drawboxsample.app-merged_res-57:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "io.ak1.drawboxsample.app-main-59:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "io.ak1.drawboxsample.app-merged_res-57:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "io.ak1.drawboxsample.app-main-59:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/ishank/.gradle/daemon/7.5/io.ak1.drawboxsample.app-merged_res-57:/drawable_ic_download.xml.flat",
+        "source": "/Users/ishank/.gradle/daemon/7.5/io.ak1.drawboxsample.app-main-59:/drawable/ic_download.xml"
+    },
+    {
+        "merged": "/Users/ishank/.gradle/daemon/7.5/io.ak1.drawboxsample.app-merged_res-57:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/ishank/.gradle/daemon/7.5/io.ak1.drawboxsample.app-main-59:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "io.ak1.drawboxsample.app-merged_res-57:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "io.ak1.drawboxsample.app-main-59:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/ishank/.gradle/daemon/7.5/io.ak1.drawboxsample.app-merged_res-57:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/ishank/.gradle/daemon/7.5/io.ak1.drawboxsample.app-main-59:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/ishank/.gradle/daemon/7.5/io.ak1.drawboxsample.app-merged_res-57:/drawable_ic_redo.xml.flat",
+        "source": "/Users/ishank/.gradle/daemon/7.5/io.ak1.drawboxsample.app-main-59:/drawable/ic_redo.xml"
+    },
+    {
+        "merged": "/Users/ishank/.gradle/daemon/7.5/io.ak1.drawboxsample.app-merged_res-57:/drawable_ic_undo.xml.flat",
+        "source": "/Users/ishank/.gradle/daemon/7.5/io.ak1.drawboxsample.app-main-59:/drawable/ic_undo.xml"
+    },
+    {
+        "merged": "io.ak1.drawboxsample.app-merged_res-57:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "io.ak1.drawboxsample.app-main-59:/mipmap-mdpi/ic_launcher_round.webp"
+    }
+]

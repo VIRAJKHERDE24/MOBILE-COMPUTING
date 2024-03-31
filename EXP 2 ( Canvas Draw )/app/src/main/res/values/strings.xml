@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">CanvasDraw</string>
+    <string name="image_desc">Button description</string>
+</resources>
